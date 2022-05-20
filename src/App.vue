@@ -27,5 +27,9 @@ export default {
 <style scoped>
 #app {
  background-color: red;
+  overflow: hidden;
+}
+#app .header{
+  margin-top: 30px;
 }
 </style>
