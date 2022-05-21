@@ -1,12 +1,13 @@
 <template>
   <div id="app">
     <div class="header">
-      <input type="text">{{msg}}\
+      <input type="text">{{msg}}
     </div>
     <Swiper :list="list"></Swiper>
 
   </div>
 </template>
+
 
 <script>
 //import HelloWorld from './components/HelloWorld.vue'
